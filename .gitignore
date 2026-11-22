@@ -53,3 +53,19 @@ rsconnect/
 src/*.o
 src/*.so
 src/*.dll
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Data never goes in git (lives in ../../data/)
+data/
+output/
+*.xlsx
+*.xls
+*.csv
+*.duckdb
+*.duckdb.wal
+*.parquet

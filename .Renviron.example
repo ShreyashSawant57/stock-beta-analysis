@@ -1,0 +1,2 @@
+BETA_RAW_PATH=path/to/your/prices.xlsx
+BETA_DB_PATH=path/to/market.duckdb
